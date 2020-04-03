@@ -1,0 +1,7 @@
+SOFTWARE REQUIREMENTS SPECS
+
+  1.Need to maintain details of every driver and employee.
+  2.Send dynamic details of onboarding employees to the specific driver along with time .
+    \\ use mobile API.
+  3.Pick and drop bells for every employee.
+  4.Reminder for status update before 2 hours of Drop/Pick.  
